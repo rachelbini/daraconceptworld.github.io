@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DaraConcept World</title>
+  <style>
+    .logo {
+      display: block;
+      margin: 30px auto;
+      width: 200px; /* You can change the size */
+    }
+  </style>
+</head>
+<body>
+
+  <img src="pictures/logo.png" alt="DaraConcept World Logo" class="logo">
+
+</body>
+</html>
+<body>
